@@ -44,8 +44,8 @@ Front end framework for reactivity. Allows for fast UI changes made with JS
 
 ## Intro
 
-[Pluralsight - Getting Started](https://app.pluralsight.com/library/courses/vuejs-getting-started/table-of-contents)
-[Pluralsight - Incorporating the CLI](https://app.pluralsight.com/library/courses/vue-cli-developing-faster/table-of-contents)
+1. [Pluralsight - Getting Started](https://app.pluralsight.com/library/courses/vuejs-getting-started/table-of-contents)
+2. [Pluralsight - Incorporating the CLI](https://app.pluralsight.com/library/courses/vue-cli-developing-faster/table-of-contents)
 [Max's Series on the basics](https://www.youtube.com/watch?v=nyJSd6V2DRI&list=PL55RiY5tL51p-YU-Uw90qQH419BM4Iz07)
 
 ## Vuex
