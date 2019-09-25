@@ -54,4 +54,8 @@ These are of course optional, but help your workflow. Feel free to add to this l
 	- https://code.visualstudio.com/
 	- Great lightweight editor, very configurable
 	- Free
-	- Worth taking a look at, no pressure to use one editor or another
+	- Worth taking a look at, **no pressure to use one editor or another**
+
+## Next Steps
+
+[Cloning the project](./cloning.md)
