@@ -1,6 +1,8 @@
 # Buy Now Guide
 
-Welcome to the exciting world of Buy Now
+Welcome to the exciting world of Buy Now. 
+
+This guide is geared mostly toward new developers, so some of the instructions are pretty specific, feel free to breeze through if you know what you're doing! 
 
 ## Table of Contents
 
