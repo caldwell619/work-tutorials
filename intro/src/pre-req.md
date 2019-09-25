@@ -31,3 +31,16 @@ This project uses [Amazon Web Services](https://aws.amazon.com/). You'll have an
 __You need to provide a credit card for your own, so it's obviously optional.__
 
 The [free tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc) is extremely generous, so you won't have to pay anything to use it as a learning ground.
+
+### Local Credentials
+
+Everything in AWS works on credentials and permissions. Once we get moving, you'll activate Multi Factor Authentication. Don't worry about it for now.
+
+To be able to use your AWS account from your machine, you'll need to install the [AWS-CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html). That will come later, for now, [find your access keys from the IAM console](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html)
+
+Keep the `keys.csv` in a safe place for later.
+
+
+## Next Steps
+
+[Installing various software](./requirements.md)
