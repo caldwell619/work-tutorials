@@ -23,7 +23,7 @@ If you're new, or are unfamiliar, check out the following and make sure they're 
 	- Node Version Manager
   - `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash`
 	- Download version `10.15.3` & `8.10`
-		- `nvm install 8.10 10.15.3`
+		- `nvm install 8.10 && nvm install 10.15.3`
 	- use `10.15.3` for now
 		- `nvm use 10.15.3`
 - **SASS**
