@@ -6,7 +6,7 @@
 
 If you're not new to this, here's what this project uses. Otherwise, follow [this](#mandatory) list.
 
-- NVM or other Node management tool
+- NVM or other Node version management tool
 - AWS CLI
 - Vue CLI
 - Sass
@@ -22,13 +22,16 @@ If you're new, or are unfamiliar, check out the following and make sure they're 
 - **NVM**
 	- Node Version Manager
   - `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash`
-	- Download version 10.15.3 & 8.10 ( `nvm install 8.10 10.15.3` )
-	- use 8.10 for now ( `nvm use 8.10` )
+	- Download version `10.15.3` & `8.10`
+		- `nvm install 8.10 10.15.3`
+	- use `10.15.3` for now
+		- `nvm use 10.15.3`
 - **SASS**
 	- Syntactically Awesome Style Sheets
 	- `npm install -g sass`
 - **Cors Proxy**
 	- [Instructions](https://www.npmjs.com/package/corsproxy-https)
+	- `sudo npm i -g corsproxy-https`
 	- Needed for local development
 - **Homebrew**
 	- `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.5/install.sh | bash`
@@ -50,6 +53,9 @@ These are of course optional, but help your workflow. Feel free to add to this l
 	- Enjoy awesomeness
 - **Postman**
 	- https://www.getpostman.com/products
+- **iTerm2**
+	- MacOS terminal replacement
+	- https://www.iterm2.com/
 - **VS Code**
 	- https://code.visualstudio.com/
 	- Great lightweight editor, very configurable
